@@ -1,9 +1,9 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm Sarah, a 2nd-year Computer Science student at the University of Waterloo! I'm passionate about sustainability, data, fintech, and more. Looking for Winter/Summer 2024 opportunities!
+I'm Sarah, a 2nd-year Computer Science student at the University of Waterloo! I'm passionate about sustainability, data, fintech, and more. Looking for Winter/Summer 2024 opportunities 🙂
 
 ### My Tech Stack 💻
-Languages:  <br>  <br> 
+✨ Languages ✨  <br>  <br> 
 ![C++](https://img.shields.io/badge/c++-%23007ACC.svg?style=for-the-badge&logo=c++&logoColor=white)
 ![C](https://img.shields.io/badge/C-%23F24E1E.svg?style=for-the-badge&logo=C&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%2338B2AC.svg?style=for-the-badge&logo=java-css&logoColor=white)
@@ -22,7 +22,7 @@ Languages:  <br>  <br>
 ![CSS](https://img.shields.io/badge/CSS-%23E4405F.svg?style=for-the-badge&logo=CSS&logoColor=white"alt="CSS")
 
 
-Tools/Frameworks: 
+✨ Tools/Frameworks ✨ 
 
 ![Linux](https://img.shields.io/badge/Linux-%2320232a.svg?style=for-the-badge&logo=Linux&logoColor=%2361DAFB)
 ![Bash](https://img.shields.io/badge/Bash-%230175C2.svg?style=for-the-badge&logo=Bash&logoColor=white)
@@ -61,11 +61,11 @@ Tools/Frameworks:
 </a>
 
 * 🌱 Involvement: Computer Science Club Events Lead, Women in Computer Science, Tech+ UW, Data Science Club, Mathematics Society Board of Directors
-* 🌎 Hackathon Ws: 1st Place Scotiabank x UWaterloo Data Science Discovery Days AI Hackathon, NASA International Space Apps Global Nominee, 2x Hack the North Pearl Sullivan Finalist
+* 🌎 Hackathon Ws: 1st Place Scotiabank x UWaterloo Data Science Discovery Days AI Hackathon, NASA International Space Apps Global Nominee, 2x Hack the North Pearl Sullivan Finalist; 🤵‍♀️ Deltahacks 9 Judge, hack::peel Judge, TurtleHacks Judge, JAMHacks 7 Mentor
 * 🏆 Life Ws: Schulich Leader Scholarship ($80,000), National Math Scholarship ($15,000), President's Scholarship of Distinction ($2,000), National Math Champion (Cayley 2021), MPP Fife's Leading Girls Leading Women Recognition Program, KW Women of the Year Nominee
-* 🥋 Fun fact: I have a black belt in Karate!
+* 🥋 Fun fact: I have a black belt in karate!
 * ✈️ Part-time aviation geek 🤓
-* 💬 Ask me about... my involvement in politics :D
+* 🩸 Ask me about... my involvement in politics & menstrual equity :D
 
 
 
