@@ -43,7 +43,6 @@ I'm Sarah, a 2nd-year Computer Science student at the University of Waterloo! I'
 ![Jenkins](https://img.shields.io/badge/Jenkins-6DA55F?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-039BE5?style=for-the-badge&logo=PySpark&logoColor=#FFCB33)
 ![PyHive](https://img.shields.io/badge/PyHive-%23593d88.svg?style=for-the-badge&logo=PyHive&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![HDFS](https://img.shields.io/badge/HDFS-%23F24E1E.svg?style=for-the-badge&logo=HDFS&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%231572B6.svg?style=for-the-badge&logo=Azure&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%2338B2AC.svg?style=for-the-badge&logo=java-css&logoColor=white)
