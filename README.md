@@ -45,8 +45,6 @@ I'm Sarah, a 2nd-year Computer Science student at the University of Waterloo! I'
 ![PyHive](https://img.shields.io/badge/PyHive-%23593d88.svg?style=for-the-badge&logo=PyHive&logoColor=white)
 ![HDFS](https://img.shields.io/badge/HDFS-%23F24E1E.svg?style=for-the-badge&logo=HDFS&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%231572B6.svg?style=for-the-badge&logo=Azure&logoColor=white)
-![Java](https://img.shields.io/badge/java-%2338B2AC.svg?style=for-the-badge&logo=java-css&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Contact Me ✌️
 <a href="https://www.linkedin.com/in/sarah-wilson-25a25b219/" target="_blank">
