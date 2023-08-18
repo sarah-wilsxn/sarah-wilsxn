@@ -1,3 +1,7 @@
+<!--       hi stalker :)        -->
+
+
+
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I'm Sarah, a 2nd-year Computer Science student at the University of Waterloo! I'm passionate about sustainability, data, fintech, and more. Looking for Winter/Summer 2024 opportunities 🙂
@@ -64,7 +68,7 @@ I'm Sarah, a 2nd-year Computer Science student at the University of Waterloo! I'
 * 🌎 Hackathon Ws: 1st Place Scotiabank x UWaterloo Data Science Discovery Days AI Hackathon, NASA International Space Apps Global Nominee, 2x Hack the North Pearl Sullivan Finalist; 🤵‍♀️ Deltahacks 9 Judge, hack::peel Judge, TurtleHacks Judge, JAMHacks 7 Mentor
 * 🏆 Life Ws: Schulich Leader Scholarship ($80,000), National Math Scholarship ($15,000), President's Scholarship of Distinction ($2,000), National Math Champion (Cayley 2021), MPP Fife's Leading Girls Leading Women Recognition Program, KW Women of the Year Nominee
 * 🥋 Fun fact: I have a black belt in karate!
-* ✈️ Part-time aviation geek 🤓
+* ✈️ More fun facts: Part-time aviation geek & 13 countries visited ❤️
 * 🩸 Ask me about... my involvement in politics & menstrual equity :D
 
 
