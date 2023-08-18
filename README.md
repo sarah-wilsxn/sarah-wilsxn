@@ -60,15 +60,15 @@ I'm Sarah, a 2nd-year Computer Science student at the University of Waterloo! I'
 
 ### Learn More 🤩
 * 😄 Pronouns: `She/Her/Hers`
-* ♻️ Side Hustle: VP of Technology of a Velocity startup,               <a href="https://3cycle.ca/" target="_blank">
+* ♻️ Side Hustle: VP Technology of a Velocity startup,               <a href="https://3cycle.ca/" target="_blank">
   <img src="https://img.shields.io/badge/3cycle-%234ea94b.svg?style=for-the-badge&logo=3cycle&logoColor=white"/>
 </a>
 
-* 🌱 Involvement: Computer Science Club Events Lead, Women in Computer Science, Tech+ UW, Data Science Club, Mathematics Society Board of Directors
+* 🌱 Involvement: Computer Science Club Events Lead, Women in Computer Science, Tech+ UW, Data Science Club, Mathematics Society Board of Directors, Chinese Christian Fellowship
 * 🌎 Hackathon Ws: 1st Place Scotiabank x UWaterloo Data Science Discovery Days AI Hackathon, NASA International Space Apps Global Nominee, 2x Hack the North Pearl Sullivan Finalist; 🤵‍♀️ Deltahacks 9 Judge, hack::peel Judge, TurtleHacks Judge, JAMHacks 7 Mentor
 * 🏆 Life Ws: Schulich Leader Scholarship ($80,000), National Math Scholarship ($15,000), President's Scholarship of Distinction ($2,000), National Math Champion (Cayley 2021), MPP Fife's Leading Girls Leading Women Recognition Program, KW Women of the Year Nominee
-* 🥋 Fun fact: I have a black belt in karate!
-* ✈️ More fun facts: Part-time aviation geek & 13 countries visited ❤️
+* 🥋 Fun Fact: I have a black belt in karate!
+* ✈️ More Fun Facts: Part-time aviation geek & 13 countries visited ❤️
 * 🩸 Ask me about... my involvement in politics & menstrual equity :D
 
 
