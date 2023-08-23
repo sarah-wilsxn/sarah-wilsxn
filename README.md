@@ -52,7 +52,7 @@ I'm Sarah, a 2nd-year Computer Science student at the University of Waterloo! I'
 </a>
 
 <a href="mailto:s5wilson@uwaterloo.ca" target="_blank">
-  <img src="https://img.shields.io/badge/Outlook-D14836?style=for-the-badge&logo=Outlook&logoColor=white" alt="Outlook"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Email&logoColor=white" alt="Email"/>
 </a>
 
 ### Learn More 🤩
