@@ -4,7 +4,7 @@
 
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm Sarah, a 2nd-year Computer Science student at the University of Waterloo! I'm passionate about sustainability, data, fintech, and more. Looking for Winter/Summer 2024 internships 🙂
+I'm Sarah, a 2nd-year Computer Science student at the University of Waterloo! I'm passionate about sustainability, data, fintech, and more. Looking for 2024 internships 🙂
 
 ### My Tech Stack 💻
 ✨ Languages ✨  <br>  <br> 
