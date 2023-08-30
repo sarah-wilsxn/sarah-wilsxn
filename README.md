@@ -62,7 +62,7 @@ I'm Sarah, a 2nd-year Computer Science student at the University of Waterloo! I'
 </a>
 
 * 🌱 Involvement: Computer Science Club Events Lead, Women in Computer Science, Tech+ UW, Data Science Club, Mathematics Society Board of Directors, Chinese Christian Fellowship
-* 🌎 Hackathon Ws: 1st Place Scotiabank x UWaterloo Data Science Discovery Days AI Hackathon, NASA International Space Apps Global Nominee, 2x Hack the North Pearl Sullivan Finalist; 🤵‍♀️ Deltahacks 9 Judge, hack::peel Judge, TurtleHacks Judge, JAMHacks 7 Mentor
+* 🌎 Hackathon Ws: 1st Place Scotiabank x UWaterloo Data Science Discovery Days AI Hackathon, NASA International Space Apps Global Nominee, 2x Hack the North Pearl Sullivan Finalist; 🤵‍♀️ Deltahacks 9 Judge, hack::peel Judge, TurtleHacks Judge
 * 🏆 Life Ws: Schulich Leader Scholarship ($80,000), National Math Scholarship ($25,000), President's Scholarship of Distinction ($2,000), National Math Champion (Cayley 2021), MPP Fife's Leading Girls Leading Women Recognition Program, KW Women of the Year Nominee
 * 🥋 Fun Fact: I have a black belt in karate!
 * ✈️ More Fun Facts: Part-time aviation geek & 13 countries visited ❤️
