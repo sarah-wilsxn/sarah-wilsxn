@@ -8,14 +8,13 @@ I'm Sarah, a 2nd-year Computer Science student at the University of Waterloo! I'
 
 ### My Tech Stack 💻
 ✨ Languages ✨  <br>  <br> 
-![C++](https://img.shields.io/badge/c++-%23007ACC.svg?style=for-the-badge&logo=c++&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%23007ACC.svg?style=for-the-badge&logo=C++&logoColor=white)
 ![C](https://img.shields.io/badge/C-%23F24E1E.svg?style=for-the-badge&logo=C&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%2338B2AC.svg?style=for-the-badge&logo=java-css&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%234ea94b.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%231572B6.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-039BE5?style=for-the-badge&logo=GraphQL&logoColor=#FFCB33)
 ![R](https://img.shields.io/badge/R-%2320232a.svg?style=for-the-badge&logo=R&logoColor=%2361DAFB)
