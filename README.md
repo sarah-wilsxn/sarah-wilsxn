@@ -2,7 +2,7 @@
 
 
 
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there! 👋
 
 I'm Sarah, a 2nd-year Computer Science student at the University of Waterloo! I'm passionate about sustainability, data, fintech, and more. Looking for 2024 internships 🙂
 
