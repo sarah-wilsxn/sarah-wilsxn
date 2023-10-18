@@ -56,7 +56,7 @@ I'm Sarah, a 2nd-year Computer Science student at the University of Waterloo! I'
 
 ### Learn More 🤩
 * 😄 Pronouns: `She/Her/Hers`
-* ♻️ Side Hustle: VP Technology of a Velocity startup,               <a href="https://3cycle.ca/" target="_blank">
+* ♻️ Side Hustle: VP of Technology at a Velocity startup,               <a href="https://3cycle.ca/" target="_blank">
   <img src="https://img.shields.io/badge/3cycle-%234ea94b.svg?style=for-the-badge&logo=3cycle&logoColor=white"/>
 </a>
 
