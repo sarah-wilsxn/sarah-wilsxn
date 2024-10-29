@@ -12,14 +12,10 @@ Languages   <br>  <br>
 ![C](https://img.shields.io/badge/C-%23F24E1E.svg?style=for-the-badge&logo=C&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%2338B2AC.svg?style=for-the-badge&logo=java-css&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%234ea94b.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%231572B6.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-039BE5?style=for-the-badge&logo=GraphQL&logoColor=#FFCB33)
 ![R](https://img.shields.io/badge/R-%2320232a.svg?style=for-the-badge&logo=R&logoColor=%2361DAFB)
-![Lisp](https://img.shields.io/badge/Lisp-F7931E?style=for-the-badge&logo=Lisp&logoColor=white)
-![Scheme](https://img.shields.io/badge/Scheme-%23593d88.svg?style=for-the-badge&logo=Scheme&logoColor=white)
 ![Racket](https://img.shields.io/badge/Racket-6DA55F?style=for-the-badge&logo=Racket&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-%23000.svg?style=for-the-badge&logo=HTML&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%23E4405F.svg?style=for-the-badge&logo=CSS&logoColor=white"alt="CSS")
@@ -44,6 +40,7 @@ Tools/Frameworks
 ![PyHive](https://img.shields.io/badge/PyHive-%23593d88.svg?style=for-the-badge&logo=PyHive&logoColor=white)
 ![HDFS](https://img.shields.io/badge/HDFS-%23F24E1E.svg?style=for-the-badge&logo=HDFS&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%231572B6.svg?style=for-the-badge&logo=Azure&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Contact Me ✌️
 <a href="https://www.linkedin.com/in/sarah-wilson-25a25b219/" target="_blank">
@@ -60,12 +57,10 @@ Tools/Frameworks
   <img src="https://img.shields.io/badge/3cycle-%234ea94b.svg?style=for-the-badge&logo=3cycle&logoColor=white"/>
 </a>
 
-* 🌱 Involvement: Computer Science Club Executive, Mathematics Society Board of Directors, Women in Computer Science, Tech+ UW, Data Science Club, Chinese Christian Fellowship, Undergraduate Academic Plans Committee Undergrad Rep.
-* 🌎 Hackathon Ws: **Hack the North 2023 Winner**, 1st Place Scotiabank x UWaterloo Data Science/AI Hackathon, NASA International Space Apps Global Nominee, 2x Hack the North Pearl Sullivan Finalist; 🤵‍♀️ Deltahacks 9 Judge, hack::peel Judge, TurtleHacks Judge
-* 🏆 Schulich Leader Scholarship ($80,000), National Math Scholarship ($15,000), President's Scholarship of Distinction ($2,000), National Math Champion (Cayley 2021), MPP Fife's Leading Girls Leading Women Recognition Program, KW Women of the Year Nominee, CAN-CWiC Scholar, Women in IT Summit Scholar
-* 🥋 Fun Fact: I have a black belt in karate!
-* ✈️ More Fun Facts: Part-time aviation geek & 13 countries visited ❤️
-* 🩸 Ask me about... my involvement in politics & menstrual equity :D
+* 🌱 Involvement: Computer Science Club Executive, Mathematics Society Board of Directors, Women in Computer Science, Tech+ UW, Data Science Club, Undergraduate Academic Plans Committee Undergrad Rep.
+* 🌎 Hackathons: **Hack the North 2023 Winner**, 1st Place Scotiabank x UWaterloo Data Science/AI Hackathon, NASA International Space Apps Global Nominee, 3x Hack the North Pearl Sullivan Finalist; 🤵‍♀️ Deltahacks 9 Judge, hack::peel Judge, TurtleHacks Judge
+* 🏆 Schulich Leader Scholarship ($80,000), National Math Scholarship ($15,000), President's Scholarship of Distinction ($2,000), KW Women of the Year Nominee, Canadian Celebration for Women in Computing
+* 🥋 Fun Facts: I have a black belt in karate and have been to 17 countries!
 
 
 
