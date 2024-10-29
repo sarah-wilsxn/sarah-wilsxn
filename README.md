@@ -7,7 +7,7 @@
 I'm Sarah, a Computer Science student at the University of Waterloo. I'm passionate about sustainability, data, fintech, and more. Looking for 2025 internships 🙂
 
 ### My Tech Stack 💻
-✨ Languages ✨  <br>  <br> 
+Languages   <br>  <br> 
 ![C++](https://img.shields.io/badge/C++-%23007ACC.svg?style=for-the-badge&logo=C++&logoColor=white)
 ![C](https://img.shields.io/badge/C-%23F24E1E.svg?style=for-the-badge&logo=C&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%2338B2AC.svg?style=for-the-badge&logo=java-css&logoColor=white)
@@ -25,7 +25,7 @@ I'm Sarah, a Computer Science student at the University of Waterloo. I'm passion
 ![CSS](https://img.shields.io/badge/CSS-%23E4405F.svg?style=for-the-badge&logo=CSS&logoColor=white"alt="CSS")
 
 
-✨ Tools/Frameworks ✨ 
+Tools/Frameworks 
 
 ![Linux](https://img.shields.io/badge/Linux-%2320232a.svg?style=for-the-badge&logo=Linux&logoColor=%2361DAFB)
 ![Bash](https://img.shields.io/badge/Bash-%230175C2.svg?style=for-the-badge&logo=Bash&logoColor=white)
