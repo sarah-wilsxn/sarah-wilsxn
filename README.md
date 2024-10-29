@@ -4,7 +4,7 @@
 
 # Hi there! 👋
 
-I'm Sarah, a Computer Science student at the University of Waterloo. I'm passionate about sustainability, data, fintech, and more. Looking for 2025 internships 🙂
+I'm Sarah, a Computer Science student at the University of Waterloo. I'm passionate about AI, sustainability, fintech, and more. Looking for 2025 internships 🙂
 
 ### My Tech Stack 💻
 Languages   <br>  <br> 
