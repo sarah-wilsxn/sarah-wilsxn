@@ -59,7 +59,7 @@ Tools/Frameworks
 
 * 🌱 Involvement: Computer Science Club Executive, Mathematics Society Board of Directors, Women in Computer Science, Tech+ UW, Data Science Club, Undergraduate Academic Plans Committee Undergrad Rep.
 * 🌎 Hackathons: **Hack the North 2023 Winner**, 1st Place Scotiabank x UWaterloo Data Science/AI Hackathon, NASA International Space Apps Global Nominee, 3x Hack the North Pearl Sullivan Finalist; 🤵‍♀️ Deltahacks 9 Judge, hack::peel Judge, TurtleHacks Judge
-* 🏆 Schulich Leader Scholarship ($80,000), National Math Scholarship ($15,000), President's Scholarship of Distinction ($2,000), KW Women of the Year Nominee, Canadian Celebration for Women in Computing
+* 🏆 Schulich Leader Scholarship, National Math Scholarship, KW Women of the Year Nominee, Canadian Celebration for Women in Computing
 * 🥋 Fun Facts: I have a black belt in karate and have been to 17 countries!
 
 
