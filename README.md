@@ -4,7 +4,7 @@
 
 # Hi there! 👋
 
-I'm Sarah, a Computer Science student at the University of Waterloo. I'm passionate about AI, sustainability, fintech, and more. 🙂
+I'm Sarah 🙂
 
 ### My Tech Stack 💻
 Languages   <br>  <br> 
@@ -47,7 +47,7 @@ Tools/Frameworks
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="mailto:s5wilson@uwaterloo.ca" target="_blank">
+<a href="mailto:sarahw51354@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Email&logoColor=white" alt="Email"/>
 </a>
 
